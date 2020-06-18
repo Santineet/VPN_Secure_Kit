@@ -1,0 +1,78 @@
+
+/* Class = "UILabel"; text = "France"; ObjectID = "11b-W8-GDh"; */
+"11b-W8-GDh.text" = "France";
+
+/* Class = "UILabel"; text = "Secure Kit"; ObjectID = "2sl-ja-jkL"; */
+"2sl-ja-jkL.text" = "Secure Kit";
+
+/* Class = "UIButton"; normalTitle = "Renew subscription"; ObjectID = "6gU-R0-g3N"; */
+"6gU-R0-g3N.normalTitle" = "Продлить подписку";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "C2O-Gr-5BV"; */
+"C2O-Gr-5BV.title" = "Назад";
+
+/* Class = "UINavigationItem"; title = "Secure Kit"; ObjectID = "ETH-fj-h5X"; */
+"ETH-fj-h5X.title" = "Secure Kit";
+
+/* Class = "UILabel"; text = "Secure Kit"; ObjectID = "H88-XD-9nA"; */
+"H88-XD-9nA.text" = "Secure Kit";
+
+/* Class = "UIButton"; normalTitle = "TheSafety.US"; ObjectID = "HZ3-fS-XNJ"; */
+"HZ3-fS-XNJ.normalTitle" = "TheSafety.US";
+
+/* Class = "UINavigationItem"; title = "VPN Locations"; ObjectID = "Mfw-YM-MCy"; */
+"Mfw-YM-MCy.title" = "VPN серверы";
+
+/* Class = "UITextField"; placeholder = "Password VPN"; ObjectID = "PfS-hh-eSM"; */
+"PfS-hh-eSM.placeholder" = "Пароль VPN";
+
+/* Class = "UIButton"; normalTitle = "Do not have account? Register"; ObjectID = "QfO-73-TVo"; */
+"QfO-73-TVo.normalTitle" = "Нет аккаунта? Зарегистрироваться";
+
+/* Class = "UILabel"; text = "На мы принимаем оплату через разные платежные системы, включая Bitcoin, PayPal, Яндекс Деньги и другие."; ObjectID = "RVH-BE-koF"; */
+"RVH-BE-koF.text" = "На мы принимаем оплату через разные платежные системы, включая Bitcoin, PayPal, Яндекс Деньги и другие.";
+
+/* Class = "UILabel"; text = "ss"; ObjectID = "TAV-cg-yC3"; */
+"TAV-cg-yC3.text" = "ss";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Utu-h0-aTJ"; */
+"Utu-h0-aTJ.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Secure Kit"; ObjectID = "Vjx-mf-tZ4"; */
+"Vjx-mf-tZ4.text" = "Secure Kit";
+
+/* Class = "UISegmentedControl"; gYg-iZ-jDr.segmentTitles[0] = "Favorites"; ObjectID = "gYg-iZ-jDr"; */
+"gYg-iZ-jDr.segmentTitles[0]" = "Избранное";
+
+/* Class = "UISegmentedControl"; gYg-iZ-jDr.segmentTitles[1] = "Standard VPN"; ObjectID = "gYg-iZ-jDr"; */
+"gYg-iZ-jDr.segmentTitles[1]" = "Standard VPN";
+
+/* Class = "UISegmentedControl"; gYg-iZ-jDr.segmentTitles[2] = "Double VPN"; ObjectID = "gYg-iZ-jDr"; */
+"gYg-iZ-jDr.segmentTitles[2]" = "Double VPN";
+
+/* Class = "UILabel"; text = "How Secure Kit keeps privacy"; ObjectID = "juA-uk-Rh9"; */
+"juA-uk-Rh9.text" = "How Secure Kit keeps privacy";
+
+/* Class = "UIButton"; normalTitle = "Have account? Sign in"; ObjectID = "kay-v2-5Mg"; */
+"kay-v2-5Mg.normalTitle" = "Есть аккаунт? Войти";
+
+/* Class = "UIButton"; normalTitle = "Choose VPN location"; ObjectID = "kpo-Ho-2Ih"; */
+"kpo-Ho-2Ih.normalTitle" = "Выберите VPN сервер";
+
+/* Class = "UITextField"; placeholder = "Username VPN"; ObjectID = "l2g-7H-qyZ"; */
+"l2g-7H-qyZ.placeholder" = "Логин VPN";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "lcc-cr-ZZ5"; */
+"lcc-cr-ZZ5.title" = "Настройки";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "rg8-3n-QDw"; */
+"rg8-3n-QDw.placeholder" = "Пароль";
+
+/* Class = "UILabel"; text = "Secure Kit does not store logs of online activity and connections, so it is impossible to correlate users and their actions on the network.\n\nWe only collect information about your subscription necessary to activate your account, including email address and billing information.\n"; ObjectID = "tbY-r2-dqX"; */
+"tbY-r2-dqX.text" = "Secure Kit does not store logs of online activity and connections, so it is impossible to correlate users and their actions on the network.\n\nWe only collect information about your subscription necessary to activate your account, including email address and billing information.\n";
+
+/* Class = "UIButton"; normalTitle = "By creating an account, you agree to the Privacy Policy"; ObjectID = "vco-xZ-HEO"; */
+"vco-xZ-HEO.normalTitle" = "Создавая учетную запись, вы соглашаетесь с Политикой конфиденциальности.";
+
+/* Class = "UIButton"; normalTitle = "Privacy policy"; ObjectID = "whC-xE-fvi"; */
+"whC-xE-fvi.normalTitle" = "Privacy policy";

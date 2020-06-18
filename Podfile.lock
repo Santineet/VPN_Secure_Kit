@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.0.0)
+  - Alertift (4.1.1)
+  - LGButton (1.1.6)
+  - Localize-Swift (3.1.0)
+  - PKHUD (5.3.0)
+  - QuickTableViewController (1.2.1)
+  - SwiftDate (6.1.0)
+  - SwiftyUserDefaults (5.0.0)
+  - SwiftyXMLParser (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.2)
+  - Alertift (~> 4.1)
+  - LGButton
+  - Localize-Swift
+  - PKHUD (~> 5.0)
+  - QuickTableViewController
+  - SwiftDate
+  - SwiftyUserDefaults (~> 5.0)
+  - SwiftyXMLParser
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Alertift
+    - LGButton
+    - Localize-Swift
+    - PKHUD
+    - QuickTableViewController
+    - SwiftDate
+    - SwiftyUserDefaults
+    - SwiftyXMLParser
+
+SPEC CHECKSUMS:
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
+  Alertift: 950483ca193717cc8bb508a7dbbe34f4af321daf
+  LGButton: 9f0a7f9d3030e3f504108342f6b66d64a429371b
+  Localize-Swift: 4bed4f0ccac8be2ec3517ee359da80ba2adb0fae
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  QuickTableViewController: e633756f35ddaafc5997f71bab9b0e512439ed85
+  SwiftDate: fa2bb3962056bb44047b4b85a30044e5eae30b03
+  SwiftyUserDefaults: 33fcb42bd1feb53a37d873feb62c82967db5f7f6
+  SwiftyXMLParser: 5ebb8793192f403fa8cc691045143906122a7a75
+
+PODFILE CHECKSUM: 90b7e9d8ca4397b7bda9c398cb901f9eb3dd1cf0
+
+COCOAPODS: 1.8.4

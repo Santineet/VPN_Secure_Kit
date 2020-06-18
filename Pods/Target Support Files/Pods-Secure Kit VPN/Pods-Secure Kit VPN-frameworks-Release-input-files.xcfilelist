@@ -1,0 +1,10 @@
+${PODS_ROOT}/Target Support Files/Pods-Secure Kit VPN/Pods-Secure Kit VPN-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Alertift/Alertift.framework
+${BUILT_PRODUCTS_DIR}/LGButton/LGButton.framework
+${BUILT_PRODUCTS_DIR}/Localize-Swift/Localize_Swift.framework
+${BUILT_PRODUCTS_DIR}/PKHUD/PKHUD.framework
+${BUILT_PRODUCTS_DIR}/QuickTableViewController/QuickTableViewController.framework
+${BUILT_PRODUCTS_DIR}/SwiftDate/SwiftDate.framework
+${BUILT_PRODUCTS_DIR}/SwiftyUserDefaults/SwiftyUserDefaults.framework
+${BUILT_PRODUCTS_DIR}/SwiftyXMLParser/SwiftyXMLParser.framework

@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  Secure Kit VPN
+
+  Created by Luchik on 21.01.2020.
+  Copyright © 2020 Luchik. All rights reserved.
+*/
+"Error!" = "Ошибка!";
+"Invalid username or password" = "Неверный логин или пароль";
+"Ok" = "Ок";
+"Logout" = "Выйти";
+"Do you really want to leave?" = "Вы действительно хотите выйти?";
+"Cancel" = "Отмена";
+"Sign in" = "Войти";
+"Sign up" = "Зарегистрироваться";
+"Yes" = "Да";
+"No" = "Нет";
+"By starting VPN you agree with Privacy policy" = "При запуске VPN вы соглашаетесь с политикой конфиденциальности";
+"No internet access" = "Нет доступа к интернету";
+"Search" = "Поиск";
+"Such email already exist" = "Такой email уже существует";
+"Remove forbidden symbols" = "Уберите запрещенные символы";
+"Congratulations!" = "Поздравляем!";
+"You received a free vpn in 7 days." = "Вы получили бесплатный VPN на 7 дней.";
+"You have already got free VPN earlier on this device. You can buy VPN subscription." = "Вы уже получали бесплатный VPN ранее на этом устройстве. Вы можете купить VPN подписку.";
+"Let's start!" = "Давайте начнем!";
+"Buy VPN subscription" = "Купить VPN подписку";
+"Login VPN" = "Логин VPN";
+"VPN subscription expires" = "VPN подписка истекает";
+"Buy subscription" = "Купить подписку";
+"Sign out" = "Выйти";
+"Select login vpn" = "Выбрать логин VPN";
+"Renew subscription" = "Продлить подписку";
+"Secure Kit does not store logs of online activity and connections, so it is impossible to correlate users and their actions on the network. We only collect information about your subscription necessary to activate your account, including email address and billing information." = "Secure Kit не хранит журналы онлайн-активности и подключений, поэтому невозможно сопоставить пользователей и их действия в сети. Мы собираем только информацию по вашей подписке, необходимую для активации вашей учетной записи, включая адрес электронной почты и платежные данные.";
+"How Secure Kit keeps privacy" = "Как Secure Kit защищает конфиденциальность";
+"Continue" = "Продолжить";
+"On the site we accept payments through various payment systems, including Bitcoin, PayPal, Yandex Money and others." = "На сайте мы принимаем оплату через разные платежные системы, включая Bitcoin, PayPal, Яндекс Деньги и другие.";
+"Month" = "Месяц";
+"Manage subscriptions" = "Управлять подписками";
+"An error occurred, try again later" = "Произошла ошибка, попробуйте позже";
